@@ -40,7 +40,9 @@
       "Bash(npx vue-tsc:*)",
       "Bash(ls *.db)",
       "Bash(find . -name \"*.db\" -maxdepth 3)",
-      "Bash(git:*)"
+      "Bash(git:*)",
+      "Bash(gh:*)",
+      "WebFetch(domain:docs.railway.app)"
     ]
   }
 }
